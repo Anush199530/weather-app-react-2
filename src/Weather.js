@@ -75,13 +75,16 @@ export default function Weather() {
               <div className="weather-forcast"></div>
             </div>
           </div>
-              </div>
-               </div>
+        </div>
+
         <small>
           <a
-            href="https://github.com/Anush199530/Vanilla-weather-app.git"
+            href="https://github.com/Anush199530/weather-app-react-2"
             target="_blank"
-            > Open-source code, </a>
+          >
+            {" "}
+            Open-source code,{" "}
+          </a>
           by Anush Arutunian
         </small>
       </div>
